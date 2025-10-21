@@ -1,6 +1,7 @@
 ## I little bit about me
 
 🎓 &nbsp;Computer Science Student at the University of Portland, Class of '26
+
 🎓 &nbsp;Minor in Computer Engineering
 
 ---
