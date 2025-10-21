@@ -7,7 +7,7 @@
 
 [![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)&utcOffset={-08:00}](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ChrisYeet/ChrisYeet/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg&utcOffset={-08:00})](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
