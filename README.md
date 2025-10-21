@@ -18,7 +18,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <p align="center">
   <a href="https://chrisyeet.dev/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://banmenerd.com"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="chris:chris@chrisyeet.dev"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href= "https://borehole.chrisyeet.dev"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <!-- <a href="chris:chris@chrisyeet.dev"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a> -->
   <a href="https://www.linkedin.com/in/christopher-yeet"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
